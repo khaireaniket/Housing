@@ -1,0 +1,167 @@
+[
+  {
+    "Id": 1,
+    "Adres": "Korte Water 149",
+    "HouseId": "22e8ade3-8fa2-4831-a08f-14579018b695",
+    "MakelaarId": 24512,
+    "MakelaarNaam": "Moerland makelaardij o.g. b.v.",
+    "Postcode": "1069GG",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 2,
+    "Adres": "Maldenhof 25",
+    "HouseId": "2e90f307-655e-4808-bba1-b4a293303bb1",
+    "MakelaarId": 24001,
+    "MakelaarNaam": "Admiraal ERA Makelaardij",
+    "Postcode": "1106EA",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": false
+  },
+  {
+    "Id": 3,
+    "Adres": "Jacob Groenplantsoen 11",
+    "HouseId": "983453de-2ad0-474c-aec4-9b057123e543",
+    "MakelaarId": 24819,
+    "MakelaarNaam": "Fransen & Kroes Makelaars",
+    "Postcode": "1035MA",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": false
+  },
+  {
+    "Id": 4,
+    "Adres": "Lisdoddelaan 120",
+    "HouseId": "d54b881a-444a-4924-af88-3571c3141dcf",
+    "MakelaarId": 24763,
+    "MakelaarNaam": "RET Makelaars - De specialist van Amsterdam-Oost!",
+    "Postcode": "1087KA",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 5,
+    "Adres": "Marchanthof 17",
+    "HouseId": "f207aad0-0aca-44fd-96b8-6a90eee5ca39",
+    "MakelaarId": 24512,
+    "MakelaarNaam": "Moerland makelaardij o.g. b.v.",
+    "Postcode": "1067ME",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 6,
+    "Adres": "Diepenbeekplantsoen 7",
+    "HouseId": "9450f549-4c1d-40e8-9019-474198de2037",
+    "MakelaarId": 24079,
+    "MakelaarNaam": "Makelaardij Van der Linden Amsterdam",
+    "Postcode": "1066KE",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 7,
+    "Adres": "Meteorenweg 212",
+    "HouseId": "c335e47d-c80b-4688-95b1-58d8f7aea136",
+    "MakelaarId": 24819,
+    "MakelaarNaam": "Fransen & Kroes Makelaars",
+    "Postcode": "1033HK",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 8,
+    "Adres": "Brenner 94",
+    "HouseId": "c4e98966-bef8-4e41-872c-5754a74f353d",
+    "MakelaarId": 24351,
+    "MakelaarNaam": "Barnhoorn Vermeer Makelaars o.g.",
+    "Postcode": "1060NV",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 9,
+    "Adres": "Arent Janszoon Ernststraat 1197",
+    "HouseId": "ef3f2835-2c3c-4cc3-bb7f-ccf7e99fa562",
+    "MakelaarId": 24865,
+    "MakelaarNaam": "ELAN Makelaars B.V.",
+    "Postcode": "1081HL",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 10,
+    "Adres": "Vegastraat 206",
+    "HouseId": "c1de738a-cf0f-407c-aae0-a11dcec0b302",
+    "MakelaarId": 24829,
+    "MakelaarNaam": "HR Makelaars, altijd meer dan je verwacht!",
+    "Postcode": "1033JB",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 11,
+    "Adres": "Oudenaardeplantsoen 63",
+    "HouseId": "35018056-1b06-44fb-8b55-86cf198c71ed",
+    "MakelaarId": 24079,
+    "MakelaarNaam": "Makelaardij Van der Linden Amsterdam",
+    "Postcode": "1066TJ",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 12,
+    "Adres": "EGoli 77",
+    "HouseId": "12bb977f-af8f-493c-a116-d98c74e6acce",
+    "MakelaarId": 24701,
+    "MakelaarNaam": "AVT Makelaars",
+    "Postcode": "1103AC",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 13,
+    "Adres": "Eurokade 49",
+    "HouseId": "d27ab1dd-8d34-4b87-992e-86fdc4f69dc9",
+    "MakelaarId": 12285,
+    "MakelaarNaam": "Makelaarsland",
+    "Postcode": "1060RZ",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 14,
+    "Adres": "Bamberghof 2",
+    "HouseId": "750e9cc0-a311-49f5-a51f-0cf5dd45d4e5",
+    "MakelaarId": 24079,
+    "MakelaarNaam": "Makelaardij Van der Linden Amsterdam",
+    "Postcode": "1068VZ",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  },
+  {
+    "Id": 15,
+    "Adres": "Monte Perdido 4",
+    "HouseId": "ec809940-def1-4136-a24a-a06323ecb421",
+    "MakelaarId": 24786,
+    "MakelaarNaam": "De Makelaers BV",
+    "Postcode": "1060PB",
+    "VerkoopStatus": "StatusBeschikbaar",
+    "Woonplaats": "Amsterdam",
+    "HasTuin": true
+  }
+]
